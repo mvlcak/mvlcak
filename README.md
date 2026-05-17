@@ -3,7 +3,7 @@
 Backend Engineer at UNIQA Group Services · Slovakia 🇸🇰
 
 I build Java backends and AI-powered services — currently deep in the
-Spring AI, MCP, and agentic application space.
+Spring AI and agentic application space.
 
 ### 🚀 Projects
 - [**James**](https://github.com/mvlcak/james) — Java TUI AI agent
