@@ -1,6 +1,5 @@
 # Hi, I'm Martin 👋
 
-Backend Engineer at UNIQA Group Services · Slovakia 🇸🇰
+Backend Engineer at UNIQA Group Services
 
-I build Java backends and AI-powered services — currently deep in the
-Spring AI and agentic application space.
+I build Java backends and AI-powered services
